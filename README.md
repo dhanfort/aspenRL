@@ -1,4 +1,4 @@
-# Enhanced AspenPlus-based Multi-stage Distillation Design using SAC RL
+# Enhanced AspenPlus-based Multi-stage Distillation Design Using SAC Reinforcement Learning
 This is the repository for the paper titled "Soft Actor-Critic Reinforcement Learning Improves Column Internals Design Optimization for Multistage Distillation." This repo contains all the necessary files to replicate the workflow and results of the study. Here are the main files:
 1. A Python API script that allows interfacing of the AspemPlus in Windows OS with Python where the SAC RL is implemented.
 2. Jupyrer Notebook containing all the codes to implement the SAC RL workflow with AspenPlus software and retrieve the optimized design results.
