@@ -1,5 +1,5 @@
 # Enhanced AspenPlus-based Multi-stage Distillation Design Using SAC Reinforcement Learning
-This is the repository for the paper: Fortela, D. L.; Broussard, H.; Ward, R.; Broussard, C.; Mikolajczyk, A.; Bayoumi, M.; Zappi, M. Soft Actor-Critic Reinforcement Learning Improves Distillation Column Internals Design Optimization. Preprints 2025, 2025011596. https://doi.org/10.20944/preprints202501.1596.v1Fortela, D. L.; Broussard, H.; Ward, R.; Broussard, C.; Mikolajczyk, A.; Bayoumi, M.; Zappi, M. Soft Actor-Critic Reinforcement Learning Improves Distillation Column Internals Design Optimization. Preprints 2025, 2025011596. https://doi.org/10.20944/preprints202501.1596.v1
+This is the repository for the paper: Fortela, D. L.; Broussard, H.; Ward, R.; Broussard, C.; Mikolajczyk, A.; Bayoumi, M.; Zappi, M. Soft Actor-Critic Reinforcement Learning Improves Distillation Column Internals Design Optimization. Preprints 2025, 2025011596. https://doi.org/10.20944/preprints202501.1596.v1
 
 This repo contains all the necessary files to replicate the workflow and results of the study. 
 
